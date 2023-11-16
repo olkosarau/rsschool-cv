@@ -54,6 +54,7 @@ XML
 * **Military Academy of the Republic of Belarus, Minsk**  
 *Radio systems engineer*
 * **courses BELHARD (BasicPython), Belarus, Minsk** 
+* **courses IT-Academy (BasicPython), Belarus, Minsk** 
 
 
 ## Languages
