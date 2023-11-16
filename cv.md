@@ -21,8 +21,7 @@ A little about myself: I have been working as a Python/odoo developer for more t
 * **04.2021 - 11.2021** \
 *LLC Dibitrum\
 Python back-end developer\
-Python\
-DRF\
+Django,DRF\
 FastApi\
 PostgreSQL\
 GIT\
@@ -30,9 +29,8 @@ Docker, Docker-compose*
 
 * **12.2021 - until now**\
 LLC ITR-Soft | IP Kosarev OI\
-Python/Odoo developer\
-Python\
-Odoo v14,15,16\
+Python developer\
+Odoo developer v14,15,16\
 JS\
 PostgreSQL\
 GIT\
